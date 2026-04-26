@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://tokyolab.org/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tokyolab.org/photos.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/posts.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/search.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/about.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/sponsors.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/feed.xml</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/photos/otaru-hokkaido.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/photos/okutama-tokyo.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/photos/kamakura-sea.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/photos/izu-campfire.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/photos/kyoto-autumn.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/photos/tokyo-street.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/posts/why-i-started-tokyolab.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/posts/quiet-walk-in-okutama.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/posts/notes-from-otaru.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/posts/winter-in-hokkaido.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tokyolab.org/posts/hiking-alone-in-japan.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

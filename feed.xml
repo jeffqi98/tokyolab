@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>TokyoLab</title>
+    <link>https://tokyolab.org/</link>
+    <description>A visual archive from Tokyo. Photography, hiking, sea wind, and quiet moments from Japan.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>Why I started TokyoLab</title>
+      <link>https://tokyolab.org/posts/why-i-started-tokyolab.html</link>
+      <guid>https://tokyolab.org/posts/why-i-started-tokyolab.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0900</pubDate>
+      <description>A short note on building a place for photos, hiking, and quiet records outside social media.</description>
+    </item>
+    <item>
+      <title>A quiet walk in Okutama</title>
+      <link>https://tokyolab.org/posts/quiet-walk-in-okutama.html</link>
+      <guid>https://tokyolab.org/posts/quiet-walk-in-okutama.html</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0900</pubDate>
+      <description>Notes from the edge of Tokyo, where the city slowly turns into mountains.</description>
+    </item>
+    <item>
+      <title>Notes from Otaru</title>
+      <link>https://tokyolab.org/posts/notes-from-otaru.html</link>
+      <guid>https://tokyolab.org/posts/notes-from-otaru.html</guid>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0900</pubDate>
+      <description>A canal, a cold wind, and the feeling of walking through an old photograph.</description>
+    </item>
+  </channel>
+</rss>
